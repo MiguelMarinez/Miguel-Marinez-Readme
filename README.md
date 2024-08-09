@@ -31,7 +31,11 @@
     
  
     - 💻 Projects:
-  - **Sales Analysis Dashboard**: An interactive dashboard built with Streamlit and CSS to analyze sales performance. [View Project]([link](https://rendimiento.streamlit.app/))
+  - **Sales Analysis Dashboard**: An interactive dashboard built with Streamlit and CSS to analyze sales performance. [View Project](https://rendimiento.streamlit.app/)
+  - 
+[interactive dashboard]('Screenshot 2024-08-08 213852.png')
+
+    
   
 
 
