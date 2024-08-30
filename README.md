@@ -12,9 +12,10 @@
 - 🛠 **Skills & Tools**:
   - **Programming Languages**: Python, SQL
   - **Data Analysis**: Pandas, NumPy, Dask, Power BI
-  - **Data Visualization**: Plotly, Matplotlib
+  - **Data Visualization**: Plotly, Matplotlib, Seaborn
   - **Web Scraping**: BeautifulSoup
   - **Frameworks**: Streamlit
+  - **Version Control**: Git
  
 
 - 🎓 **Certifications & Courses**:
@@ -24,10 +25,12 @@
   - **Fundamentals of Big Data** (LinkedIn Learning)
   - **Statistics for Data Science and Data Analysis** (Udemy)
   - **Python for Data Analysis** (Udemy)
-  - **MySQL and SQLite** (YouTube)
+  - **SQLite** (YouTube)
+  - **MySQL** (Analysbuilder.com)
   - **Data Cleaning with Python for Data Scientists** (YouTube)
   - **Advanced Python Concepts** (YouTube)
-  - **Bootcamp Experience**: Monthly data science projects (ongoing)
+  - **Git** (youtube)
+  - **Bootcamp Experience**: Monthly data Analisys projects (ongoing)
     
  
     - 💻 Projects:
