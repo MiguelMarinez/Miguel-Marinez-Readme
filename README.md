@@ -30,6 +30,7 @@
   - **Data Cleaning with Python for Data Scientists** (YouTube)
   - **Advanced Python Concepts** (YouTube)
   - **Git** (youtube)
+  - **Data Storytelling** (Udemy)
   - **Bootcamp Experience**: Monthly data Analisys projects (ongoing)
     
  
