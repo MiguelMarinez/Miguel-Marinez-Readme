@@ -11,7 +11,7 @@
 
 - 🛠 **Skills & Tools**:
   - **Programming Languages**: Python, SQL
-  - **Data Analysis**: Pandas, NumPy, Dask, Power BI
+  - **Data Analysis**: Pandas, NumPy, Dask
   - **Data Visualization**: Plotly, Matplotlib, Seaborn
   - **Web Scraping**: BeautifulSoup
   - **Frameworks**: Streamlit
