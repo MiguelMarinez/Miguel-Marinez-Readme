@@ -19,8 +19,8 @@
  
 
 - 🎓 **Certifications & Courses**:
-  - **Data Science Specialization** (Coursera)
-  - **Data Analysis** (DataCamp, in progress)
+  - **Data Analysis** (DataCamp)
+  -  **Data Science Specialization** (Coursera)
   - **Intermediate and Advanced Statistics** (LinkedIn Learning)
   - **Fundamentals of Big Data** (LinkedIn Learning)
   - **Statistics for Data Science and Data Analysis** (Udemy)
