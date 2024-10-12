@@ -15,7 +15,7 @@
   - **Data Visualization**: Plotly, Matplotlib, Seaborn
   - **Web Scraping**: BeautifulSoup
   - **Frameworks**: Streamlit
-  - **Version Control**: Git
+  - **Version Control**: Git (basic knowledge)
   - **Data Storytelling** 
   - **Statistical Analysis**: Descriptive Statistics, Inferential Statistics, Hypothesis Testing, math, scipy.stats
  
