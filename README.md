@@ -20,13 +20,13 @@
 
 - 🎓 **Certifications & Courses**:
   - **Data Analysis** (DataCamp)
+  - **MySQL** (Analysbuilder.com)
   -  **Data Science Specialization** (Coursera)
   - **Intermediate and Advanced Statistics** (LinkedIn Learning)
   - **Fundamentals of Big Data** (LinkedIn Learning)
   - **Statistics for Data Science and Data Analysis** (Udemy)
   - **Python for Data Analysis** (Udemy)
   - **SQLite** (YouTube)
-  - **MySQL** (Analysbuilder.com)
   - **Data Cleaning with Python for Data Scientists** (YouTube)
   - **Advanced Python Concepts** (YouTube)
   - **Git** (youtube)
