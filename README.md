@@ -20,7 +20,7 @@
 
 - 🎓 **Certifications & Courses**:
   - **Data Analysis** (DataCamp)
-  - **MySQL** (Analysbuilder.com)
+  - **MySQL for Data Analytics** (Analysbuilder.com)
   -  **Data Science Specialization** (Coursera)
   - **Intermediate and Advanced Statistics** (LinkedIn Learning)
   - **Fundamentals of Big Data** (LinkedIn Learning)
