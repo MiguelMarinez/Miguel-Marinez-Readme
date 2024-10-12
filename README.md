@@ -17,7 +17,7 @@
   - **Frameworks**: Streamlit
   - **Version Control**: Git
   - **Data Storytelling** 
-  - **Statistical Analysis**: Descriptive Statistics, Inferential Statistics, Hypothesis Testing
+  - **Statistical Analysis**: Descriptive Statistics, Inferential Statistics, Hypothesis Testing, math, scipy.stats
  
 
 - 🎓 **Certifications & Courses**:
