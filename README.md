@@ -16,6 +16,8 @@
   - **Web Scraping**: BeautifulSoup
   - **Frameworks**: Streamlit
   - **Version Control**: Git
+  - **Data Storytelling** 
+  - **Statistical Analysis**: Descriptive Statistics, Inferential Statistics, Hypothesis Testing
  
 
 - 🎓 **Certifications & Courses**:
